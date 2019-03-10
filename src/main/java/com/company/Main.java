@@ -4,6 +4,7 @@ public class Main
 {
     public static void main(String[] args)
     {
+        System.out.println("hi");
         int first= 0;
         System.out.println(String.format("%d", first));
         int i1 = 1;
